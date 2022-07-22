@@ -24,4 +24,4 @@ iseven()
     else
     printf("enter number is odd");
 }
-
+        
