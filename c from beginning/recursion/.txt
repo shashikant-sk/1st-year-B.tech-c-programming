@@ -1,0 +1,13 @@
+when a fucntion calls itself, it is called a recursive function
+
+
+--------------------------------------------------------------------------------
+
+Properties of Recursion
+a. Anything that can be done with Iteration, can be done with
+recursion and vice-versa.
+b. Recursion can sometimes give the most simple solution.
+c. Base Case is the condition which stops recursion.
+d. Iteration has infinite loop & Recursion has stack overflow
+
+---------------------------------------------------------------------------------------

@@ -8,3 +8,6 @@ int main(){
     }
     return 0;
 }
+
+
+// n,i,n*i;

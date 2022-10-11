@@ -1,0 +1,58 @@
+operator Precendence
+
+Priority  | operator
+__________|___________
+1         |  !
+__________|___________
+2         |  * , / , %
+__________|___________
+3         |  + ,  -
+__________|___________
+4         | <,<=,>,>=
+__________|___________
+5         |  == , !=
+__________|___________
+6         |  &&
+__________|___________
+7         |  ||        
+__________|___________     
+
+
+---------------------------------------------------------------------------------
+
+   
+                            VS 
+
+   Argument                       |   parameter
+_________________________ ________________________________
+1.values that are               | 1.Values in fucntion 
+passed in function call     | Declaration & definition
+__________________________|______________________       
+2.Used to send value        | 2. Used to receive Value 
+__________________________|__________________________
+3. Actual Parameter          | 3. Formal Parameters
+__________________________|___________________
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+NOTE
+a. Function can only return one value at a time
+b. Changes to parameters in function don't change the values in
+calling function.
+   Because a copy of argument is passed to the function
+
+c. Even in the smallest c program ,there is at least one function
+
+d. All function  name must  be unique
+e .One function  name must be main ()
+f. You Can define functions in any Sequence.
+
+---------------------------------------------------------------------------------------
+
+ 
